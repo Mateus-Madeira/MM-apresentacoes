@@ -6,6 +6,7 @@ format:
 editor: visual
 css: styles.css
 ---
+# {background-image="CAPA.png" background-size="cover" background-position="center" background-color="black"}
 
 ## PRINCIPAIS INFORMAÇÕES
 
@@ -104,3 +105,7 @@ e.  **Teste de Léger (Corrida Vai-e-Vem)**
 
 ![](indices.png){width="100%" height="100%" style="object-fit: cover;"}
 
+# {background-image="11.png" background-size="cover" background-position="center" background-color="black"}
+# {background-image="12.png" background-size="cover" background-position="center" background-color="black"}
+# {background-image="13.png" background-size="cover" background-position="center" background-color="black"}
+# {background-image="14.png" background-size="cover" background-position="center" background-color="black"}
