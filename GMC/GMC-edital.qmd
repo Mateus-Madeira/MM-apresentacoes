@@ -108,4 +108,4 @@ e.  **Teste de Léger (Corrida Vai-e-Vem)**
 # {background-image="11.png" background-size="cover" background-position="center" background-color="black"}
 # {background-image="12.png" background-size="cover" background-position="center" background-color="black"}
 # {background-image="13.png" background-size="cover" background-position="center" background-color="black"}
-# {background-image="14.png" background-size="cover" background-position="center" background-color="black"}
+# {background-image="14.png" background-size="coverf" background-position="center" background-color="black"}
