@@ -1,0 +1,106 @@
+---
+format:
+  revealjs:
+    chalkboard: true
+    incremental: true
+editor: visual
+css: styles.css
+---
+
+## PRINCIPAIS INFORMAÇÕES
+
+::: incremental
+-   **Vagas:** 100 + CR
+-   **Cargo:** Guarda Municipal de Curitiba
+-   **Escolaridade:** Ensino Médio Completo
+-   **Carteira de Habilitação** **(CNH):** categoria "AB"
+-   **Banca:** Instituto AOCP
+-   **Inscrições:** 02/10 até 04/11
+-   **Taxa de Inscrição:** R\$ 120,00
+-   **Data da Prova:** 07/12
+:::
+
+## REMUNERAÇÃO E BENEFÍCIOS
+
+::: incremental
+-   **Remuneração curso de formação:** R\$ 2.948,21
+-   **Remuneração inicial (Pós-curso de formação):** R\$ 5.750,40
+    -   **Vencimento Base:** R\$ 2.948,21
+    -   **Gratificação Inerente ao Cargo:** R\$ 1.474,10
+    -   **Auxílio-Refeição:** R\$ 800,09
+    -   **Auxílio-Transporte:** R\$ 528,00
+    -   **Direito ao plano de saúde da Prefeitura de Curitiba**
+:::
+
+## ETAPAS DO CONCURSO
+
+::: incremental
+1.  **Prova Objetiva** - eliminatória e classificatória
+2.  **Teste de Aptidão Física** - eliminatória
+4.  **Exame Médico** - eliminatória
+5.  **Investigação Social** - eliminatória
+3.  **Avaliação Psicológica** - eliminatória
+6.  **Posse no Cargo**
+7.  **Curso de Formação**
+:::
+
+## DISCIPLINAS PROVA OBJETIVA
+
+::: incremental
+-   **Língua Portuguesa**
+-   **Raciocínio Lógico-Matemático**
+-   **História e Geografia de Curitiba**
+-   **Noções de Informática**
+-   **Diretito Constitucional**
+-   **Direito Administrativo**
+-   **Direito Penal**
+-   **Direito Processual Penal**
+-   **Legislação Específica**
+:::
+
+## ESTRUTURA PROVA OBJETIVA
+
+::: {#HTML .TAB}
++----------------------------------+----------------+---------+
+| Disciplinas                      | Nº de Questões | Pontos  |
++==================================+:==============:+:=======:+
+| Língua Portuguesa                |                |         |
++----------------------------------+----------------+---------+
+| Raciocínio Lógico-Matemático     |                |         |
++----------------------------------+----------------+---------+
+| História e Geografia de Curitiba |                |         |
++----------------------------------+----------------+---------+
+| Noções de Informática            |                |         |
++----------------------------------+----------------+---------+
+| Direito Constitucional           |                |         |
+|                                  |                |         |
+| Direito Administrativo           |                |         |
+|                                  |                |         |
+| Direito Processual Penal         |                |         |
+|                                  |                |         |
+| Direito Penal                    |                |         |
+|                                  |                |         |
+| Legislação Específica            |                |         |
++----------------------------------+----------------+---------+
+| **TOTAL**                        | **40**         | **100** |
++----------------------------------+----------------+---------+
+:::
+
+*Para ser considerado aprovado o candidato deve obter, no mínimo, 50 pontos e não deve zerar nenhuma disciplina.*
+
+## TESTE DE APTIDÃO FÍSICA (TAF)
+
+A prova de Aptidão Física (TAF) será composta por 5 (quatro) exercícios, todos de caráter eliminatório:
+
+::: incremental
+a.  **Corrida de Velocidade;**
+b.  **Teste de Barra Fixa;**
+c.  **Salto à Distância;**
+d.  **Barra de Equilíbrio;**
+e.  **Teste de Léger (Corrida Vai-e-Vem)**
+:::
+
+## TESTE DE APTIDÃO FÍSICA - ÍNDICES
+
+![](indices.png){width="100%" height="100%" style="object-fit: cover;"}
+
