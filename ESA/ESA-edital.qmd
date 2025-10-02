@@ -1,0 +1,64 @@
+---
+format:
+  revealjs:
+    chalkboard: true
+    incremental: true
+editor: visual
+css: styles.css
+---
+
+## PRINCIPAIS INFORMAÇÕES
+
+::: incremental
+-   **Escolaridade:** Ensino Médio Completo ou estar cursando o 3º ano
+-   **Idade:** 17 a 24 anos (Área Geral/Aviação), 17 a 26 anos (Música/Saúde)
+-   **Data da prova:** Entre Setembro e Outubro
+-   **Vagas:** Em torno de 1000 Vagas
+-   **Gênero:** Masculino e Feminino (Proporção de vagas 90%/10%)
+:::
+
+## Formação
+
+::: incremental
+-   **2 anos de duração**
+    -   **1° ano: Período Básico (13 unidades espalhadas pelo Brasil)**
+    -   **2° ano: Período de Qualificação (ESA, EsSLog, CIAvEx)**
+-   **Diploma de Nível Superior na área de qualificação (Tecnólogo)**
+:::
+
+## Estrutura da Prova
+
+
+::: incremental
+-   **Prova Objetiva (50 questões, 4 Horas de Duração)**
+  -   **Língua Portuguesa (14 Questões)**
+  -   **Matemática (14 Questões)**
+  -   **História e Geografia do Brasil (12 Questões)**
+  -   **Língua Inglesa (10 Questões)**
+  -   **Redação (Caráter Eliminatório, é necessário obter nota superior a 5)**
+:::
+
+
+## Fases do Concurso Pós-prova
+
+::: incremental
+- A **prova de Aptidão Física (TAF):**
+  a.  **Corrida de 12 minutos;**
+  b.  **Barra Fixa;**
+  c.  **Flexão de Braço;**
+  d.  **Abdominal;**
+-  **Inspeção de Saúde (Exame Médico)**
+-  **Avaliação Psicológica**
+:::
+
+## Remunerações
+::: incremental
+- **Direitos:** **Plano de Saúde, Auxílio Fardamento, Plano Odontológico**
+-  **Durante o Curso:** **Bolsa de Aproximadamente R$ 1.400,00**
+- **Após a Formação:** **Aproximadamente R$ 4.700,00**
+  - **Pode chegar a mais de R$ 6.000,00 em zonas especiais**
+
+- **Transferência Pós-Formação:** **Entre R$ 25.000 - R$ 40.000**
+
+
+

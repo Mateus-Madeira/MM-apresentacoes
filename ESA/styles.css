@@ -1,0 +1,13 @@
+.slide-background-content {
+  background-color: #fafafa; 
+}
+h2 {
+  border-bottom: 2px solid darkblue;
+  padding-bottom: 5px; 
+}
+#HTML {
+  width: 100%;          /* reduz a largura da tabela */
+  margin: auto;        /* centraliza */
+  font-size: 0.6em;   /* diminui o tamanho da fonte */
+  
+}
