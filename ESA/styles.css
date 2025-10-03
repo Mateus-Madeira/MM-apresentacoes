@@ -11,3 +11,14 @@ h2 {
   font-size: 0.6em;   /* diminui o tamanho da fonte */
   
 }
+.reveal .slide-background::after {
+  content: '';
+  position: absolute;
+  top: 20px; /* Distância da parte inferior */
+  right: 10px;  /* ALTERADO: Distância da parte direita */
+  width: 200px; /* Largura da imagem */
+  height: 200px; /* Altura da imagem */
+  background-image: url('ESA.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
