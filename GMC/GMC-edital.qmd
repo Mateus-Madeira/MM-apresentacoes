@@ -15,20 +15,20 @@ css: styles.css
 -   **Vagas:** 100 + CR
 -   **Cargo:** Guarda Municipal de Curitiba
 -   **Escolaridade:** Ensino Médio Completo
--   **Carteira de Habilitação** **(CNH):** categoria "AB"
+-   **Carteira de Habilitação** **(CNH):** Carteira de habilitação regular*
 -   **Banca:** Instituto AOCP
--   **Inscrições:** 02/10 até 04/11
+-   **Inscrições:** 27/10 (9h00) até 24/11 (14h00)
 -   **Taxa de Inscrição:** R\$ 120,00
--   **Data da Prova:** 07/12
+-   **Data da Prova:** 18/01/2026
 :::
 
 ## REMUNERAÇÃO E BENEFÍCIOS
 
 ::: incremental
--   **Remuneração curso de formação:** R\$ 2.948,21
--   **Remuneração inicial (Pós-curso de formação):** R\$ 5.750,40
-    -   **Vencimento Base:** R\$ 2.948,21
-    -   **Gratificação Inerente ao Cargo:** R\$ 1.474,10
+-   **Remuneração curso de formação:** R\$ 2.671,14
+-   **Remuneração inicial (Pós-curso de formação):** R\$ 5.334,80
+    -   **Vencimento Base:** R\$ 2.671,14
+    -   **Gratificação Inerente ao Cargo:** R\$ 1.335,57
     -   **Auxílio-Refeição:** R\$ 800,09
     -   **Auxílio-Transporte:** R\$ 528,00
     -   **Direito ao plano de saúde da Prefeitura de Curitiba**
@@ -38,12 +38,12 @@ css: styles.css
 
 ::: incremental
 1.  **Prova Objetiva** - eliminatória e classificatória
-2.  **Teste de Aptidão Física** - eliminatória
-3.  **Exame Médico** - eliminatória
-4.  **Investigação Social** - eliminatória
+2.  **Teste de Aptidão Física** - eliminatória (2500 convocados)
+3.  **Investigação Social** - eliminatória
 5.  **Avaliação Psicológica** - eliminatória
+3.  **Exame Médico Ocupacional** - eliminatória
 6.  **Posse no Cargo**
-7.  **Curso de Formação**
+7.  **CURSO DE FORMAÇÃO TÉCNICO-PROFISSIONAL PARA GUARDA MUNICIPAL**
 :::
 
 ## DISCIPLINAS PROVA OBJETIVA
@@ -63,36 +63,36 @@ css: styles.css
 ## ESTRUTURA PROVA OBJETIVA
 
 ::: {#HTML .TAB}
-+----------------------------------+----------------+---------+
-| Disciplinas                      | Nº de Questões | Pontos  |
-+==================================+:==============:+:=======:+
-| Língua Portuguesa                |                |         |
-+----------------------------------+----------------+---------+
-| Raciocínio Lógico-Matemático     |                |         |
-+----------------------------------+----------------+---------+
-| História e Geografia de Curitiba |                |         |
-+----------------------------------+----------------+---------+
-| Noções de Informática            |                |         |
-+----------------------------------+----------------+---------+
-| Direito Constitucional           |                |         |
-|                                  |                |         |
-| Direito Administrativo           |                |         |
-|                                  |                |         |
-| Direito Processual Penal         |                |         |
-|                                  |                |         |
-| Direito Penal                    |                |         |
-|                                  |                |         |
-| Legislação Específica            |                |         |
-+----------------------------------+----------------+---------+
-| **TOTAL**                        | **40**         | **100** |
-+----------------------------------+----------------+---------+
++----------------------------------+----------------+------+---------------+
+| Disciplinas                      | Nº de Questões | Peso | Pontos        |
++==================================+:==============:+======+:=============:+
+| Língua Portuguesa                | 5              | 1,5  | 7,5           |
++----------------------------------+----------------+------+---------------+
+| Raciocínio Lógico-Matemático     | 5              | 1,5  | 7,5           |
++----------------------------------+----------------+------+---------------+
+| História e Geografia de Curitiba | 5              | 1,5  | 7,5           |
++----------------------------------+----------------+------+---------------+
+| Noções de Informática            | 5              | 1,5  | 7,5           |
++----------------------------------+----------------+------+---------------+
+| Direito Constitucional           | 10             | 3,5  | 35            |
+|                                  |                |      |               |
+| Direito Administrativo           |                |      |               |
+|                                  |                |      |               |
+| Direito Processual Penal         |                |      |               |
+|                                  |                |      |               |
+| Direito Penal                    |                |      |               |
++----------------------------------+----------------+------+---------------+
+| Legislação                       | 10             | 3,5  | 35            |
++----------------------------------+----------------+------+---------------+
+| **TOTAL**                        | **40**         |      | **100**       |
++----------------------------------+----------------+------+---------------+
 :::
 
 *Para ser considerado aprovado o candidato deve obter, no mínimo, 50 pontos e não deve zerar nenhuma disciplina.*
 
 ## TESTE DE APTIDÃO FÍSICA (TAF)
 
-A prova de Aptidão Física (TAF) será composta por 5 (quatro) exercícios, todos de caráter eliminatório:
+A prova de Aptidão Física (TAF) será composta por 5 (cinco) exercícios, todos de caráter eliminatório:
 
 ::: incremental
 a.  **Corrida de Velocidade;**
