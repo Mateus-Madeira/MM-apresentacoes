@@ -38,12 +38,12 @@ css: styles.css
 
 ::: incremental
 1.  **Prova Objetiva** - eliminatória e classificatória
-2.  **Teste de Aptidão Física** - eliminatória (2500 convocados)
+2.  **Teste de Aptidão Física** - eliminatória (2500 convocados - 2075 AC | 125 PCD | 300 PPI)
 3.  **Investigação Social** - eliminatória
 5.  **Avaliação Psicológica** - eliminatória
 3.  **Exame Médico Ocupacional** - eliminatória
 6.  **Posse no Cargo**
-7.  **CURSO DE FORMAÇÃO TÉCNICO-PROFISSIONAL PARA GUARDA MUNICIPAL**
+7.  **Curso de Formação**
 :::
 
 ## DISCIPLINAS PROVA OBJETIVA
