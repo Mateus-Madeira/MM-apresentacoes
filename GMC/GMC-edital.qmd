@@ -28,7 +28,7 @@ css: styles.css
 -   **Remuneração curso de formação:** R\$ 2.671,14
 -   **Remuneração inicial (Pós-curso de formação):** R\$ 5.334,80
     -   **Vencimento Base:** R\$ 2.671,14
-    -   **Gratificação Inerente ao Cargo:** R\$ 1.335,57
+    -   **Gratificação Inerente ao Cargo (50%):** R\$ 1.335,57
     -   **Auxílio-Refeição:** R\$ 800,09
     -   **Auxílio-Transporte:** R\$ 528,00
     -   **Direito ao plano de saúde da Prefeitura de Curitiba**
