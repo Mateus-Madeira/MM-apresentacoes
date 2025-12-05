@@ -140,29 +140,13 @@ todos_dados <- bind_rows(dados_portugues, dados_informatica, dados_rlm, dados_di
 +----------------------------------+----------------+------+---------------+
 | Legislação                       | 10             | 3,5  | 35            |
 +----------------------------------+----------------+------+---------------+
-| **TOTAL** | **40** |      | **100** |
+| **TOTAL**                        | **40**         |      | **100**       |
 +----------------------------------+----------------+------+---------------+
 :::
 
-*Para ser considerado aprovado o candidato deve obter, no mínimo, 50 pontos e não deve zerar nenhuma disciplina.*
+*Para ser considerado aprovado o candidato deve obter, no mínimo, 50 pontos.*
 
-## TESTE DE APTIDÃO FÍSICA (TAF)
-
-A prova de Aptidão Física (TAF) será composta por 5 (cinco) exercícios, todos de caráter eliminatório:
-
-::: incremental
-a.  **Corrida de Velocidade;**
-b.  **Teste de Barra Fixa;**
-c.  **Salto à Distância;**
-d.  **Barra de Equilíbrio;**
-e.  **Teste de Léger (Corrida Vai-e-Vem)**
-:::
-
-## TESTE DE APTIDÃO FÍSICA - ÍNDICES
-
-![](indices.png){width="100%" height="100%" style="object-fit: cover;"}
-
-# O DNA da Banca AOCP {background-color="#000000"}
+# O DNA da Banca AOCP {background-color="#ffffff"}
 
 ## Visão Geral
 
@@ -293,7 +277,7 @@ todos_dados %>%
 O gráfico fala por si só.
 
 -   **O Rei:** O ECA domina.
--   **Outros:** Maria da Penha e Abuso.
+-   **Outros tópicos importantes:** Maria da Penha, costituições estaduais e Abuso de autoridade.
 :::
 
 ::: {.column width="60%"}
@@ -311,7 +295,7 @@ todos_dados %>%
 
 ---
 
-## Resumo: Top 10 Geral
+## Resumo: Top 15 Geral
 
 Se você tivesse pouco tempo, foque nestes:
 
@@ -319,7 +303,7 @@ Se você tivesse pouco tempo, foque nestes:
 # Tabela corrigida para PPT usando Flextable
 todos_dados %>%
   arrange(desc(n_questoes)) %>%
-  head(8) %>%
+  head(15) %>%
   select(Disciplina = bloco, Tópico = topico, `Qtd` = n_questoes, `Relevância` = label_perc) %>%
   flextable() %>%
   colformat_double(digits = 0) %>%
@@ -330,10 +314,64 @@ todos_dados %>%
   color(part = "header", color = "white")
 ```
 
-#  {background-image="11.png" background-size="cover" background-position="center" background-color="black"}
+#  {background-image="2.png" background-size="cover" background-position="center" background-color="black"}
 
-#  {background-image="12.png" background-size="cover" background-position="center" background-color="black"}
+#  {background-image="3.png" background-size="cover" background-position="center" background-color="black"}
 
-#  {background-image="13.png" background-size="cover" background-position="center" background-color="black"}
+#  {background-image="4.png" background-size="cover" background-position="center" background-color="black"}
 
-#  {background-image="14.png" background-size="coverf" background-position="center" background-color="black"}
+#  {background-image="5.png" background-size="coverf" background-position="center" background-color="black"}
+
+#  {background-image="6.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="7.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="8.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="9.png" background-size="coverf" background-position="center" background-color="black"}
+
+#  {background-image="15.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="16.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="17.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="18.png" background-size="coverf" background-position="center" background-color="black"}
+
+#  {background-image="19.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="20.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="21.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="22.png" background-size="coverf" background-position="center" background-color="black"}
+
+#  {background-image="23.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="24.png" background-size="coverf" background-position="center" background-color="black"}
+
+#  {background-image="25.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="26.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="27.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="28.png" background-size="coverf" background-position="center" background-color="black"}
+
+#  {background-image="29.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="30.png" background-size="coverf" background-position="center" background-color="black"}
+
+#  {background-image="31.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="32.png" background-size="coverf" background-position="center" background-color="black"}
+
+#  {background-image="33.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="34.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="35.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="37.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="38.png" background-size="cover" background-position="center" background-color="black"}
