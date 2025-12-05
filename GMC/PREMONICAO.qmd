@@ -366,6 +366,8 @@ todos_dados %>%
 
 #  {background-image="32.png" background-size="coverf" background-position="center" background-color="black"}
 
+#  {background-image="32a.png" background-size="coverf" background-position="center" background-color="black"}
+
 #  {background-image="33.png" background-size="cover" background-position="center" background-color="black"}
 
 #  {background-image="34.png" background-size="cover" background-position="center" background-color="black"}
