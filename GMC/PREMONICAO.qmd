@@ -80,7 +80,7 @@ todos_dados <- bind_rows(dados_portugues, dados_informatica, dados_rlm, dados_di
 
 Analisamos o histórico de provas para **Carreiras Policiais** e identificamos que a banca possui predileções claras.
 
----
+------------------------------------------------------------------------
 
 ## 1. Língua Portuguesa
 
@@ -107,7 +107,7 @@ todos_dados %>%
 :::
 :::::
 
----
+------------------------------------------------------------------------
 
 ## 2. Informática
 
@@ -134,7 +134,7 @@ todos_dados %>%
 :::
 :::::
 
----
+------------------------------------------------------------------------
 
 ## 3. Raciocínio Lógico
 
@@ -161,7 +161,7 @@ todos_dados %>%
 :::
 :::::
 
----
+------------------------------------------------------------------------
 
 ## 4. Direito
 
@@ -188,7 +188,7 @@ todos_dados %>%
 :::
 :::::
 
----
+------------------------------------------------------------------------
 
 ## 5. Legislação
 
@@ -215,7 +215,7 @@ todos_dados %>%
 :::
 :::::
 
----
+------------------------------------------------------------------------
 
 ## Resumo: Top 15 Geral
 
@@ -295,6 +295,8 @@ todos_dados %>%
 #  {background-image="34.png" background-size="cover" background-position="center" background-color="black"}
 
 #  {background-image="35.png" background-size="cover" background-position="center" background-color="black"}
+
+#  {background-image="35 a.png" background-size="cover" background-position="center" background-color="black"}
 
 #  {background-image="37.png" background-size="cover" background-position="center" background-color="black"}
 
