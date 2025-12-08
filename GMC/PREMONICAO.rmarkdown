@@ -66,6 +66,8 @@ todos_dados <- bind_rows(dados_portugues, dados_informatica, dados_rlm, dados_di
   ungroup()
 ```
 
+
+
 #  {background-image="CAPA.png" background-size="cover" background-position="center" background-color="black"}
 
 # O DNA da Banca AOCP {background-color="#ffffff"}
@@ -95,6 +97,8 @@ A banca é conteudista em Gramática.
 :::
 
 ::: {.column width="60%"}
+
+
 ```{r plot_port, fig.width=8, fig.height=6}
 todos_dados %>%
   filter(bloco == "Português") %>%
@@ -104,6 +108,8 @@ todos_dados %>%
   scale_fill_viridis(option = "rocket", direction = 1) +
   labs(x = "", y = "Questões", title = "Português") 
 ```
+
+
 :::
 :::::
 
@@ -122,6 +128,8 @@ Foco na parte física e segurança.
 :::
 
 ::: {.column width="60%"}
+
+
 ```{r plot_info, fig.width=8, fig.height=6}
 todos_dados %>%
   filter(bloco == "Informática") %>%
@@ -131,6 +139,8 @@ todos_dados %>%
   scale_fill_viridis(option = "rocket", direction = 1) +
   labs(x = "", y = "Questões", title = "Informática")
 ```
+
+
 :::
 :::::
 
@@ -149,6 +159,8 @@ Dois tópicos se destacam.
 :::
 
 ::: {.column width="60%"}
+
+
 ```{r plot_rlm, fig.width=8, fig.height=6}
 todos_dados %>%
   filter(bloco == "RLM") %>%
@@ -158,6 +170,8 @@ todos_dados %>%
   scale_fill_viridis(option = "rocket", direction = 1) +
   labs(x = "", y = "Questões", title = "RLM")
 ```
+
+
 :::
 :::::
 
@@ -176,6 +190,8 @@ O coração da prova.
 :::
 
 ::: {.column width="60%"}
+
+
 ```{r plot_direito, fig.width=8, fig.height=6}
 todos_dados %>%
   filter(bloco == "Direito") %>%
@@ -185,6 +201,8 @@ todos_dados %>%
   scale_fill_viridis(option = "rocket", direction = 1, begin = 0.2, end = 0.8) +
   labs(x = "", y = "Questões", title = "Direito")
 ```
+
+
 :::
 :::::
 
@@ -203,6 +221,8 @@ O gráfico fala por si só.
 :::
 
 ::: {.column width="60%"}
+
+
 ```{r plot_leg, fig.width=8, fig.height=6}
 todos_dados %>%
   filter(bloco == "Leg. Específicas") %>%
@@ -212,6 +232,8 @@ todos_dados %>%
   scale_fill_viridis(option = "rocket", direction = 1, begin = 0.2, end = 0.8) +
   labs(x = "", y = "Questões", title = "Legislação")
 ```
+
+
 :::
 :::::
 
@@ -220,6 +242,8 @@ todos_dados %>%
 ## Resumo: Top 15 Geral
 
 Se você tivesse pouco tempo, foque nestes:
+
+
 
 ```{r tabela}
 # Tabela corrigida para PPT usando Flextable
@@ -235,6 +259,8 @@ todos_dados %>%
   bg(part = "header", bg = "#5E0C10") %>%
   color(part = "header", color = "white")
 ```
+
+
 
 #  {background-image="2.png" background-size="cover" background-position="center" background-color="black"}
 
@@ -299,3 +325,4 @@ todos_dados %>%
 #  {background-image="37.png" background-size="cover" background-position="center" background-color="black"}
 
 #  {background-image="38.png" background-size="cover" background-position="center" background-color="black"}
+
